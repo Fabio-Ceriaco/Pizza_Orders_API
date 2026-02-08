@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn
+sqlmodel
+pwdlib[argon2]
+python-dotenv
+python-multipart
+PyMySQL
+pydantic[email]
+PyJWT
